@@ -28,5 +28,9 @@ The columns in the given dataset are as follows:<br>
 7.transmission.<br>
 8.Owner.<br>
 
+While performimg the operations, the dataset contains more Categorical Values so one can use One Hot Encoding or Pandas Dummy Coding.<br>
+Algorithm used here is RandomForestRegressor.A random forest is a meta estimator that fits a number of classifying decision trees on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. The sub-sample size is controlled with the max_samples parameter if bootstrap=True (default), otherwise the whole dataset is used to build each tree.<br>
+
+To find the Co-relation between the Dependent features and Independent features , here we use co-relation and visualize using Seaborn :
 
 
