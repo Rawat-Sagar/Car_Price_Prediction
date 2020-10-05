@@ -42,7 +42,7 @@ The parameters of the estimator used to apply these methods are optimized by cro
 Here I also look for Important Features Graph which look like this:<br>
 <img src="https://github.com/Rawat-Sagar/Car_Price_Prediction/blob/main/important_feature.jpg"><br>
 
-Atlast I use sklearn metrics to check the Mean Squre Error , Mean Absolute Error , Root Mean Squared Error:
+Atlast I use sklearn metrics to check the Mean Squre Error , Mean Absolute Error , Root Mean Squared Error:<br>
 MAE Score:0.9377161202185811.<br>
 MSE Score: 4.109102939568499.<br>
 RMSE: 2.027092237558148.<br>
