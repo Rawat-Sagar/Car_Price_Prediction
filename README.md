@@ -8,7 +8,7 @@ Machine Learning Project: Regression Problem.
 Car Price Prediction : A Simple Machine Learning project do predict the price of your car if you want to sell it or just want know to the current price.
 Live Demo Link:https://car-price-prediction-04.herokuapp.com/
 
-NOTE: Here you may not find the Brand Option , beacuse there were much of it and some were of different names and tags.
+NOTE: Here you may not find the Brand Option , because there were much of it and some were of different names and tags.
 
 ## About this Project:
 
